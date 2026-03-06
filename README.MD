@@ -24,7 +24,10 @@ The system fine-tunes a pretrained **CLIP (Contrastive Language–Image Pretrain
 
 # Demo
 
-![Demo Recording](Demo-Recording.mov)
+<video src="https://github.com/user-attachments/assets/687bf523-c05d-473b-9f82-059110a02815" controls="controls" style="max-width: 100%;">
+  Your browser does not support the video tag.
+</video>
+
 
 ---
 
@@ -102,7 +105,8 @@ The dataset was prepared as follows:
 ---
 
 # Architecture
-![Architecture](/Users/ssingodia/Desktop/ds_interns_project_2_2026/Architecture.png)
+![Architecture](Architecture.png)
+
 
 
 ## Base Model
@@ -330,4 +334,6 @@ The following files are excluded from this repository via `.gitignore` but are *
 | `data/val_pairs.pkl` | Validation image-caption pairs | *(https://drive.google.com/file/d/1Lli-R7QqmnbsnxMPZ2YDu2lUMQWbhOBW/view?usp=sharing)* |
 
 > After downloading, place each file in its respective folder (`models/` or `data/`) at the root of the project before running `app.py`.# Fine_tuned_CLIP
-# Fine-Tuning-CLIP
+
+[Download the Zip File](https://drive.google.com/file/d/1rCfWupYMN5g6uFTbFjuLsKIYPomE9L6-/view?usp=sharing)
+for full project  code and files
