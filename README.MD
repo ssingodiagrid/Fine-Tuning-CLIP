@@ -157,7 +157,7 @@ Configuration:
 
 | Strategy | Recall@10 | Insight |
 |------|------|------|
-| No Scaling | 42% | Weak ranking separation |
+| No Scaling | 42% | Weak separation |
 | Fixed Temperature (0.07) | 78% | Improved semantic alignment |
 | Learned Temperature | 82% | Strong ranking sharpness |
 
